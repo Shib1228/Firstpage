@@ -1,0 +1,19 @@
+.cuerpo{
+    background-color: rgb(0, 0, 0);
+}
+.menu{
+    width:auto;    
+    height:100px;
+    background-color: aliceblue;
+}
+
+.logo{
+    width: 98px;
+    height: 100px;
+}
+
+.lista{
+    color: black;
+    display: flex;
+    justify-content: center;
+}
