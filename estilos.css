@@ -1,0 +1,87 @@
+
+
+.header
+{
+
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    width: 100%;
+    background-color:rgb(163, 199, 242);
+  
+}
+
+.logo{
+  
+    width: 90px;
+    height: 70x;
+    display: flex;
+}
+
+.titulop{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    font-size: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+  
+   
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.menu a{
+    margin: 20px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    width: 150px;
+    background-color: rgb(188, 219, 156);
+    border:  black solid 3px;
+    text-align: center;
+}   
+
+
+.inicios{
+
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    width: 200px;
+   
+    
+
+ 
+
+    
+}
+.iniciosesion{
+    width: 95px;
+    height: 50px;
+    border: solid black 1px ;
+    margin-right: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+
+     
+    
+}
+
+.registro{
+   
+        width: 95px;
+        height: 50px;
+        border: solid black 1px ;
+        margin-right: 15px;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-size: 18px;
+        
+        
+
+}
+.links ::hover{
+    border: 3px solid rgb(219, 212, 212);
+}
